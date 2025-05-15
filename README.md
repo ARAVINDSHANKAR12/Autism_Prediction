@@ -53,12 +53,13 @@ Early diagnosis of Autism is crucial for timely support and intervention. This p
 
 ## 📈 Results
 
-| Model              | Accuracy |
-|-------------------|----------|
-| Random Forest      | **85%**  |
-| Decision Tree      | 81%      |
-| Naive Bayes        | 78%      |
+|      Model      | Train Accuracy |
+|-----------------|----------------|
+| Random Forest   |  **92%**       |
+| Decision Tree   |    86%         |
+| XG boost        |    90%         |
 
+Overall Test Accuracy:83%(Random Forest Classifier)
 ---
 
 ## 📊 Sample Output
